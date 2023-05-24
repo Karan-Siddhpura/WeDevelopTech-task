@@ -181,6 +181,7 @@ section{
     border: 0.5px solid #080808;
     font-weight: 700;
     margin-top: 30px;
+    cursor: pointer;
 }
 
 /* ---------------- Gallary Style Start --------- */
