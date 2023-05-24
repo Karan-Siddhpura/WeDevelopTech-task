@@ -53,7 +53,7 @@ header{
 .logo{
     width: 200px;
 }
-
+/* ------------ Navbar Style Start ----------- */
 nav{
     width: 100%;
     height: 60px;
@@ -119,14 +119,17 @@ nav{
     color: #e58d41;
     transition: 0.6s ease;
 }
-
+/* ------------ Navbar Style End ----------- */
+/* ------------ Cover Image Style Start ----------- */
 section{
    margin: 30px 0 0 0;
 }
 .cover-image{
     width: 100%;
 }
+/* ------------ Cover Image Style End ----------- */
 
+/* --------------------Heading With back bottom line------------ */
 .heading{
     display: flex;
     align-items: center;
@@ -143,6 +146,7 @@ section{
     margin: 10px 0 30px 0;
 }
 
+/* ---------------- Intro Style Start --------- */
 .wrapper{
     width: 100%;
     padding: 0 6% 0 6%;
@@ -164,7 +168,9 @@ section{
     margin-bottom: 10px;
 }
 
+/* ---------------- Intro Style End --------- */
 
+/* --------- Read More Button ---------------- */
 .btn{
     width: 150px;
     height: 50px;
@@ -177,6 +183,7 @@ section{
     margin-top: 30px;
 }
 
+/* ---------------- Gallary Style Start --------- */
 .gallary{
     width: 100%;
     display: flex;
@@ -191,7 +198,9 @@ section{
     border-radius: 50%;
     margin: 0 20px 20px 20px;  
 }
+/* ---------------- Gallary Style End --------- */
 
+/* ---------------- History Style Start --------- */
 .history{
     width: 100%;
     margin-top: -30px;
@@ -205,7 +214,9 @@ section{
     line-height: 25px;
     margin-bottom: 10px;
 }
+/* ---------------- History Style End --------- */
 
+/* ------------ Footer Style Start ------------- */
 footer{
     width: 100%;
     padding: 0 2% 0 2%;
@@ -227,6 +238,8 @@ footer > p >img{
 span{
     color: #e58d41;
 }
+
+/* ------------ Footer Style End ------------- */
 
 /* ---------------------------Tablet View---------------------------- */
 @media only screen and (max-width: 768px) and (min-width: 481px)  {
