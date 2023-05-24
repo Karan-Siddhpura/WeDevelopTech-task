@@ -152,7 +152,7 @@ section{
 .wrapper > img{
     width: 320px;
     float: right;
-    margin: 0 15px 15px 15px;
+    margin: 0 15px 5px 15px;
 }
 
 .wrapper > p{
